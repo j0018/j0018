@@ -38,14 +38,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0018&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0018&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<br>
-
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/jamaica-valdez-aa1575217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
