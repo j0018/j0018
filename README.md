@@ -11,7 +11,6 @@
 
 - 🔍 Quality Analyst who's spent way too long fixing other people's inconsistencies (95%+ accuracy, ask my old KPIs)
 - 🐍 Fluent in **Python, SQL, Excel, Power BI, Looker Studio** — basically my version of "PIVOT!"
-- 🛠️ Built a movie booking system with **PHP, HTML, CSS, MySQL** — no Ross-level yelling required
 - 🌱 Currently leveling up in analytics, one dashboard at a time
 
 <br>
