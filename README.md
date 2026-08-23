@@ -7,7 +7,7 @@
 
 ---
 
-📊 Business Analytics student at the **University of Santo Tomas**, currently pivoting from **QA to data-driven roles** — basically the Rachel Green of my own career arc: started as one thing, slowly became someone unrecognizably better at it.
+📊 Business Analytics student @ UST, currently pivoting from **QA to data-driven roles** — basically the Rachel Green of my own career arc: started as one thing, slowly became someone unrecognizably better at it.
 
 - 🔍 Quality Analyst who's spent way too long fixing other people's inconsistencies (95%+ accuracy, ask my old KPIs)
 - 🐍 Fluent in **Python, SQL, Excel, Power BI, Looker Studio** — basically my version of "PIVOT!"
